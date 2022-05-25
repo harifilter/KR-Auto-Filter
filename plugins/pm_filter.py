@@ -443,10 +443,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('🤖 𝐔𝐩𝐝𝐚𝐭𝐞𝐬', url='https://t.me/bgm_linkzz'),
             InlineKeyboardButton('♥️ 𝐒𝐨𝐮𝐫𝐜𝐞', callback_data='source')
         ], [
+            InlineKeyboardButton('𝐒𝐨𝐜𝐢𝐚𝐥 🐼 𝐌𝐞𝐝𝐢𝐚', url='https://linktr.ee/HappyKidBGMZ')
+        ], [
             InlineKeyboardButton('🏠 𝐇𝐨𝐦𝐞', callback_data='start'),
             InlineKeyboardButton('🔐 𝐂𝐥𝐨𝐬𝐞', callback_data='close_data')
-        ], [
-            InlineKeyboardButton('𝐒𝐨𝐜𝐢𝐚𝐥 🐼 𝐌𝐞𝐝𝐢𝐚', url='https://linktr.ee/HappyKidBGMZ')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
