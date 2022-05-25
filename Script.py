@@ -15,13 +15,13 @@ class script(object):
        ✨ 𝙷𝙰𝚅𝙴 𝙰 𝙽𝙸𝙲𝙴 𝙳𝙰𝚈 𝙱𝚁𝙾𝚃𝙷𝙴𝚁 & 𝚂𝙸𝚂𝚃𝙴𝚁 ✨
 
 <b>DEVS:</b>
-- <a href=https://t.me/happykidbgmz>HappyKidBGNZ</a>"""
+- <a href=https://t.me/kr_botz>HappyKidBGMZ</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
-1. eva maria should have admin privillage.
+1. Sk should have admin privillage.
 2. only admins can add filters in a chat.
 3. alert buttons have a limit of 64 characters.
 
@@ -40,7 +40,7 @@ class script(object):
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/EvaMariaBot)</code>
+<code>[Button Text](buttonurl:https://t.me/kr_Botz)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
