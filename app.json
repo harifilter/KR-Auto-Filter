@@ -16,7 +16,7 @@
       "inline"
     ],
     "website": "https://github.com/SadKidBGMZ/bgm_auto_filter_bot",
-    "repository": "https://github.com/SadKidBGMZ/bgm_auto_filter_bot",
+    "repository": "https://github.com/Lastdrogz/sk-auto-filter-bot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
