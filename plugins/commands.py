@@ -45,12 +45,12 @@ async def start(client, message):
             InlineKeyboardButton('➕ 𝐀𝐝𝐝 𝐌𝐞 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩𝐬 ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('🔍 𝐒𝐞𝐚𝐫𝐜𝐡', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('𝐁𝐨𝐭 🤖 𝐔𝐩𝐝𝐚𝐭𝐞𝐬', url='https://t.me/happykidbgmz')
+            InlineKeyboardButton('𝐔𝐩𝐝𝐚𝐭𝐞', url='https://t.me/happykidbgmz')
             ],[
             InlineKeyboardButton('ℹ️ 𝐇𝐞𝐥𝐩', callback_data='help'),
             InlineKeyboardButton('😊 𝐀𝐛𝐨𝐮𝐭', callback_data='about')
             ],[
-            InlineKeyboardButton('𝐌𝐨𝐯𝐢𝐞𝐬 🍿 𝐔𝐩𝐝𝐚𝐭𝐞𝐬', url='https://t.me/bgm_linkzz')
+            InlineKeyboardButton('𝐂𝐨𝐧𝐭𝐚𝐜𝐓 🥷 𝐀𝐝𝐦𝐢𝐍', url='https://t.me/kr_admin_bot')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -93,12 +93,12 @@ async def start(client, message):
             InlineKeyboardButton('➕ 𝐀𝐝𝐝 𝐌𝐞 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩𝐬 ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('🔍 𝐒𝐞𝐚𝐫𝐜𝐡', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('𝐁𝐨𝐭 🤖 𝐔𝐩𝐝𝐚𝐭𝐞𝐬', url='https://t.me/happykidbgmz')
+            InlineKeyboardButton('𝐔𝐩𝐝𝐚𝐭𝐞', url='https://t.me/happykidbgmz')
             ],[
             InlineKeyboardButton('ℹ️ 𝐇𝐞𝐥𝐩', callback_data='help'),
             InlineKeyboardButton('😊 𝐀𝐛𝐨𝐮𝐭', callback_data='about')
             ],[
-            InlineKeyboardButton('𝐌𝐨𝐯𝐢𝐞𝐬 🍿 𝐔𝐩𝐝𝐚𝐭𝐞𝐬', url='https://t.me/bgm_linkzz')
+            InlineKeyboardButton('𝐂𝐨𝐧𝐭𝐚𝐜𝐓 🥷 𝐀𝐝𝐦𝐢𝐍', url='https://t.me/kr_admin_bot')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
