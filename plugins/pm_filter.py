@@ -417,27 +417,27 @@ async def cb_handler(client: Client, query: CallbackQuery):
         reply1 = await query.message.reply_text(
             text="☆☆☆☆☆☆"
         )
-        await asyncio.sleep(0.5)
+        await asyncio.sleep(0.1)
         reply2 = await reply1.edit_text(
             text="✯☆☆☆☆☆"
         )
-        await asyncio.sleep(0.5)
+        await asyncio.sleep(0.1)
         reply3 = await reply2.edit_text(
             text="✯✯☆☆☆☆"
         )
-        await asyncio.sleep(0.5)
+        await asyncio.sleep(0.1)
         reply4 = await reply3.edit_text(
             text="✯✯✯☆☆☆"
         )
-        await asyncio.sleep(0.5)
+        await asyncio.sleep(0.1)
         reply5 = await reply4.edit_text(
             text="✯✯✯✯☆☆"
         )
-        await asyncio.sleep(0.5)
+        await asyncio.sleep(0.1)
         reply6 = await reply5.edit_text(
             text="✯✯✯✯✯☆"
         )
-        await asyncio.sleep(0.5)
+        await asyncio.sleep(0.1)
         reply7 = await reply6.edit_text(
             text="✯✯✯✯✯✯"
         )
@@ -463,27 +463,27 @@ async def cb_handler(client: Client, query: CallbackQuery):
         reply1 = await query.message.reply_text(
             text="☆☆☆☆☆☆"
         )
-        await asyncio.sleep(0.5)
+        await asyncio.sleep(0.1)
         reply2 = await reply1.edit_text(
             text="✯☆☆☆☆☆"
         )
-        await asyncio.sleep(0.5)
+        await asyncio.sleep(0.1)
         reply3 = await reply2.edit_text(
             text="✯✯☆☆☆☆"
         )
-        await asyncio.sleep(0.5)
+        await asyncio.sleep(0.1)
         reply4 = await reply3.edit_text(
             text="✯✯✯☆☆☆"
         )
-        await asyncio.sleep(0.5)
+        await asyncio.sleep(0.1)
         reply5 = await reply4.edit_text(
             text="✯✯✯✯☆☆"
         )
-        await asyncio.sleep(0.5)
+        await asyncio.sleep(0.1)
         reply6 = await reply5.edit_text(
             text="✯✯✯✯✯☆"
         )
-        await asyncio.sleep(0.5)
+        await asyncio.sleep(0.1)
         reply7 = await reply6.edit_text(
             text="✯✯✯✯✯✯"
         )
@@ -507,27 +507,27 @@ async def cb_handler(client: Client, query: CallbackQuery):
         reply1 = await query.message.reply_text(
             text="☆☆☆☆☆☆"
         )
-        await asyncio.sleep(0.5)
+        await asyncio.sleep(0.1)
         reply2 = await reply1.edit_text(
             text="✯☆☆☆☆☆"
         )
-        await asyncio.sleep(0.5)
+        await asyncio.sleep(0.1)
         reply3 = await reply2.edit_text(
             text="✯✯☆☆☆☆"
         )
-        await asyncio.sleep(0.5)
+        await asyncio.sleep(0.1)
         reply4 = await reply3.edit_text(
             text="✯✯✯☆☆☆"
         )
-        await asyncio.sleep(0.5)
+        await asyncio.sleep(0.1)
         reply5 = await reply4.edit_text(
             text="✯✯✯✯☆☆"
         )
-        await asyncio.sleep(0.5)
+        await asyncio.sleep(0.1)
         reply6 = await reply5.edit_text(
             text="✯✯✯✯✯☆"
         )
-        await asyncio.sleep(0.5)
+        await asyncio.sleep(0.1)
         reply7 = await reply6.edit_text(
             text="✯✯✯✯✯✯"
         )
