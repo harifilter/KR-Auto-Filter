@@ -414,6 +414,34 @@ async def cb_handler(client: Client, query: CallbackQuery):
         ], [
             InlineKeyboardButton('𝐌𝐨𝐯𝐢𝐞𝐬 🍿 𝐔𝐩𝐝𝐚𝐭𝐞𝐬', url='https://t.me/bgm_linkzz')
         ]]
+        reply1 = await query.message.reply_text(
+            text="☆☆☆☆☆☆"
+        )
+        await asyncio.sleep(0.5)
+        reply2 = await reply1.edit_text(
+            text="✯☆☆☆☆☆"
+        )
+        await asyncio.sleep(0.5)
+        reply3 = await reply2.edit_text(
+            text="✯✯☆☆☆☆"
+        )
+        await asyncio.sleep(0.5)
+        reply4 = await reply3.edit_text(
+            text="✯✯✯☆☆☆"
+        )
+        await asyncio.sleep(0.5)
+        reply5 = await reply4.edit_text(
+            text="✯✯✯✯☆☆"
+        )
+        await asyncio.sleep(0.5)
+        reply6 = await reply5.edit_text(
+            text="✯✯✯✯✯☆"
+        )
+        await asyncio.sleep(0.5)
+        reply7 = await reply6.edit_text(
+            text="✯✯✯✯✯✯"
+        )
+        await reply7.delete()
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
             text=script.START_TXT.format(query.from_user.mention, temp.U_NAME, temp.B_NAME),
@@ -432,6 +460,34 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('🏠 𝐇𝐨𝐦𝐞', callback_data='start'),
             InlineKeyboardButton('🔮 𝐒𝐭𝐚𝐭𝐮𝐬', callback_data='stats')
         ]]
+        reply1 = await query.message.reply_text(
+            text="☆☆☆☆☆☆"
+        )
+        await asyncio.sleep(0.5)
+        reply2 = await reply1.edit_text(
+            text="✯☆☆☆☆☆"
+        )
+        await asyncio.sleep(0.5)
+        reply3 = await reply2.edit_text(
+            text="✯✯☆☆☆☆"
+        )
+        await asyncio.sleep(0.5)
+        reply4 = await reply3.edit_text(
+            text="✯✯✯☆☆☆"
+        )
+        await asyncio.sleep(0.5)
+        reply5 = await reply4.edit_text(
+            text="✯✯✯✯☆☆"
+        )
+        await asyncio.sleep(0.5)
+        reply6 = await reply5.edit_text(
+            text="✯✯✯✯✯☆"
+        )
+        await asyncio.sleep(0.5)
+        reply7 = await reply6.edit_text(
+            text="✯✯✯✯✯✯"
+        )
+        await reply7.delete()
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
             text=script.HELP_TXT.format(query.from_user.mention),
@@ -448,6 +504,34 @@ async def cb_handler(client: Client, query: CallbackQuery):
         ], [
             InlineKeyboardButton('𝐒𝐨𝐜𝐢𝐚𝐥 🐼 𝐌𝐞𝐝𝐢𝐚', url='https://linktr.ee/HappyKidBGMZ')
         ]]
+        reply1 = await query.message.reply_text(
+            text="☆☆☆☆☆☆"
+        )
+        await asyncio.sleep(0.5)
+        reply2 = await reply1.edit_text(
+            text="✯☆☆☆☆☆"
+        )
+        await asyncio.sleep(0.5)
+        reply3 = await reply2.edit_text(
+            text="✯✯☆☆☆☆"
+        )
+        await asyncio.sleep(0.5)
+        reply4 = await reply3.edit_text(
+            text="✯✯✯☆☆☆"
+        )
+        await asyncio.sleep(0.5)
+        reply5 = await reply4.edit_text(
+            text="✯✯✯✯☆☆"
+        )
+        await asyncio.sleep(0.5)
+        reply6 = await reply5.edit_text(
+            text="✯✯✯✯✯☆"
+        )
+        await asyncio.sleep(0.5)
+        reply7 = await reply6.edit_text(
+            text="✯✯✯✯✯✯"
+        )
+        await reply7.delete()
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
             text=script.ABOUT_TXT.format(temp.B_NAME),
