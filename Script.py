@@ -15,20 +15,20 @@ class script(object):
 ╰───────────────⍟ </b> """
     SOURCE_TXT = """𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐁𝐆𝐌 𝐋𝐢𝐧𝐤𝐳𝐙 
                               𝐂𝐢𝐧𝐞𝐦𝐚 𝐓𝐢𝐦𝐞 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥
+<b>
+          <a href=https://t.me/+GPrm8sxTWsdkOGM1>🔰 𝐌ᴀɪ𝐍 𝐆ʀ𝐎ᴜ𝐏 🔰</a>
 
-          <b><a href={https://t.me/+GPrm8sxTWsdkOGM1}>{🔰 𝐌ᴀɪ𝐍 𝐆ʀ𝐎ᴜ𝐏 🔰}</a></b>
+        <a href=https://t.me/+lsAp2MDnUC9mMmE1>⚜️ 𝐁ᴀᏨᏦᴜ𝐏 𝐂ʜᴀNɴᴇ𝐋 ⚜️</a>
 
-        <b><a href={https://t.me/+lsAp2MDnUC9mMmE1}>{⚜️ 𝐁ᴀᏨᏦᴜ𝐏 𝐂ʜᴀNɴᴇ𝐋 ⚜️}</a></b>
+         <a href=https://t.me/+MB8a61q_98A3MThl>🧲 𝐁ᴀᏨᏦᴜ𝐏 𝐆ʀ𝐎ᴜ𝐏 🧲</a>
 
-         <b><a href={https://t.me/+MB8a61q_98A3MThl}>{🧲 𝐁ᴀᏨᏦᴜ𝐏 𝐆ʀ𝐎ᴜ𝐏 🧲}</a></b>
+◈ ━━━━━━━━ ● ━━━━━━━━ ◈ </b>
 
-◈ ━━━━━━━━ ● ━━━━━━━━ ◈
-
-  <b><a href={https://t.me/+hR6DpC_xpPBiM2Zl}>{❤‍🔥  𝐁ᴏᴛ 𝐔ᴘᴅᴀᴛᴇ 𝐂ʜᴀɴɴᴇʟʜᴀɴɴᴇʟ  ❤‍🔥}</a></b>
+  <a href=https://t.me/+hR6DpC_xpPBiM2Zl>❤‍🔥  𝐁ᴏᴛ 𝐔ᴘᴅᴀᴛᴇ 𝐂ʜᴀɴɴᴇʟʜᴀɴɴᴇʟʜᴀɴɴᴇʟ  ❤‍🔥</a>
 
        <b> ✯ ━━━━━ ♡︎ ━━━━━ ✯ </b>
 
-<i><b>⭕️ Ꮋɪsᴄʟᴀɪᴍᴇʀ </b></i> : <code> All The Content in this Channel is Taken From the Internet, We Don't Own Any Content. </code>
+<b>⭕️ Ꭰɪsᴄʟᴀɪᴍᴇʀ </b> : <code> All The Content in this Channel is Taken From the Internet, We Don't Own Any Content. </code>
 
 </i></b>Powered By - @BGM_LinkzZ 
 
