@@ -3,20 +3,38 @@ class script(object):
 𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>, 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂, 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙴𝙽𝙹𝙾𝚈 😍"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
-    ABOUT_TXT = """╭───────────⍟
-├🤖 ᴍʏ ɴᴀᴍᴇ: {}
-├👑 ᴏᴡɴᴇʀ : <a href=https://t.me/Happy_kid_sk>ʜᴀᴘᴘʏ ᴋɪᴅ</a>
-├😎 ᴅᴇᴠs : @Happy_Kid_SK 
-├📕 ʟɪʙʀᴀʀʏ : ʏʀᴏɢʀᴀᴍ
-├✏️ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ 𝟹
-├💾 ᴅᴀᴛᴀ ʙᴀsᴇ : ᴍᴏɴɢᴏ ᴅʙ
-├🌀 ᴍʏ sᴇʀᴠᴇʀ : ʜᴇʀᴏᴋᴜ
-├📊 ʙᴜɪʟᴅ sᴛᴀᴜs : ᴠ𝟹.𝟼.𝟾 [ ʙᴇᴛᴀ ]              
-╰───────────────⍟"""
-    SOURCE_TXT = """<b>NOTE:</b>
--  💖 𝙷𝙴𝙻𝙻𝙾 𝙼𝚈 𝙵𝚁𝙸𝙴𝙽𝙳 𝙸 𝙰𝙼 𝙷𝚊𝚙𝚙𝚢 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 ★ 𝙲𝙸𝙽𝙴𝙼𝙰 𝚃𝙸𝙼𝙴 ★ 💖
-       ✨ 𝙷𝙰𝚅𝙴 𝙰 𝙽𝙸𝙲𝙴 𝙳𝙰𝚈 𝙱𝚁𝙾𝚃𝙷𝙴𝚁 & 𝚂𝙸𝚂𝚃𝙴𝚁 ✨
+    ABOUT_TXT = """ <b>╭────[ 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘 ]────⍟
+├🤖 𝐌ʏ 𝐍ᴀᴍᴇ: {}
+├👑 𝐎ᴡɴᴇʀ : <a href=https://t.me/Happy_kid_sk>𝑯𝒂𝒑𝒑𝒚 🥷 𝑲𝒊𝒅</a>
+├😎 𝐃ᴇᴠs : href=https://t.me/Happy_kid_sk>❦︎𝐇ᴀᴘᴘʏ❦︎</a>
+├📕 𝐋ɪʙʀᴀʀʏ : 𝚈𝚁𝙾𝙶𝚁𝙰𝙼 𝐘ʀᴏɢʀᴀᴍ
+├✏️ 𝐋ᴀɴɢᴜᴀɢᴇ : 𝐏ʏᴛʜᴏɴ 𝟹
+├💾 𝐃ᴀᴛᴀ 𝐁ᴀsᴇ : 𝐌ᴏɴɢᴏ ᴅʙ
+├🌀 𝐌ʏ 𝐒ᴇʀᴠᴇʀ : 𝐇ᴇʀᴏᴋᴜ
+├📊 𝐁ᴜɪʟᴅ 𝐒ᴛᴀᴜs : 𝟷.𝟸.𝟶 [ 𝐁ᴇᴛᴀ ]              
+╰───────────────⍟ </b> """
+    SOURCE_TXT = """𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐁𝐆𝐌 𝐋𝐢𝐧𝐤𝐳𝐙 
+                              𝐂𝐢𝐧𝐞𝐦𝐚 𝐓𝐢𝐦𝐞 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥
 
+          <b><a href={https://t.me/+GPrm8sxTWsdkOGM1}>{🔰 𝐌ᴀɪ𝐍 𝐆ʀ𝐎ᴜ𝐏 🔰}</a></b>
+
+        <b><a href={https://t.me/+lsAp2MDnUC9mMmE1}>{⚜️ 𝐁ᴀᏨᏦᴜ𝐏 𝐂ʜᴀNɴᴇ𝐋 ⚜️}</a></b>
+
+         <b><a href={https://t.me/+MB8a61q_98A3MThl}>{🧲 𝐁ᴀᏨᏦᴜ𝐏 𝐆ʀ𝐎ᴜ𝐏 🧲}</a></b>
+
+◈ ━━━━━━━━ ● ━━━━━━━━ ◈
+
+  <b><a href={https://t.me/+hR6DpC_xpPBiM2Zl}>{❤‍🔥  𝐁ᴏᴛ 𝐔ᴘᴅᴀᴛᴇ 𝐂ʜᴀɴɴᴇʟʜᴀɴɴᴇʟ  ❤‍🔥}</a></b>
+
+       <b> ✯ ━━━━━ ♡︎ ━━━━━ ✯ </b>
+
+<i><b>⭕️ Ꮋɪsᴄʟᴀɪᴍᴇʀ </b></i> : <code> All The Content in this Channel is Taken From the Internet, We Don't Own Any Content. </code>
+
+</i></b>Powered By - @BGM_LinkzZ 
+
+👉 Contact me -  @KR_AdmiN_BoT
+
+Share & Support Us❤️</b></i>
 <b>DEVS:</b>
 - <a href=https://t.me/kr_botz>HappyKidBGMZ</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
