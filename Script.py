@@ -6,8 +6,8 @@ class script(object):
     ABOUT_TXT = """ <b>╭────[ 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘 ]────⍟
 ├🤖 𝐌ʏ 𝐍ᴀᴍᴇ: {}
 ├👑 𝐎ᴡɴᴇʀ : <a href=https://t.me/Happy_kid_sk>𝑯𝒂𝒑𝒑𝒚 🥷 𝑲𝒊𝒅</a>
-├😎 𝐃ᴇᴠs : href=https://t.me/Happy_kid_sk>❦︎𝐇ᴀᴘᴘʏ❦︎</a>
-├📕 𝐋ɪʙʀᴀʀʏ : 𝚈𝚁𝙾𝙶𝚁𝙰𝙼 𝐘ʀᴏɢʀᴀᴍ
+├😎 𝐃ᴇᴠs : <a href=https://t.me/Happy_kid_sk>❦︎𝐇ᴀᴘᴘʏ❦︎</a>
+├📕 𝐋ɪʙʀᴀʀʏ : 𝐘ʀᴏɢʀᴀᴍ
 ├✏️ 𝐋ᴀɴɢᴜᴀɢᴇ : 𝐏ʏᴛʜᴏɴ 𝟹
 ├💾 𝐃ᴀᴛᴀ 𝐁ᴀsᴇ : 𝐌ᴏɴɢᴏ ᴅʙ
 ├🌀 𝐌ʏ 𝐒ᴇʀᴠᴇʀ : 𝐇ᴇʀᴏᴋᴜ
@@ -22,11 +22,11 @@ class script(object):
 
          <a href=https://t.me/+MB8a61q_98A3MThl>🧲 𝐁ᴀᏨᏦᴜ𝐏 𝐆ʀ𝐎ᴜ𝐏 🧲</a>
 
-     ◈ ━━━━━━━━ ● ━━━━━━━━ ◈ 
+          ◈ ━━━━━━━━ ● ━━━━━━━━ ◈ 
 
   <a href=https://t.me/+hR6DpC_xpPBiM2Zl>❤‍🔥  BᴏT UᴘᴅᴀᴛE  ❤‍🔥</a>
 
-         ✯ ━━━━━ ♡︎ ━━━━━ ✯ </b>
+             ✯ ━━━━━ ♡︎ ━━━━━ ✯ </b>
 
 <b>⭕️ Ꭰɪsᴄʟᴀɪᴍᴇʀ </b> : <code> All The Content in this Channel is Taken From the Internet, We Don't Own Any Content. </code>
 
