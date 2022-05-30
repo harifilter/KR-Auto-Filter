@@ -22,11 +22,11 @@ class script(object):
 
          <a href=https://t.me/+MB8a61q_98A3MThl>🧲 𝐁ᴀᏨᏦᴜ𝐏 𝐆ʀ𝐎ᴜ𝐏 🧲</a>
 
-◈ ━━━━━━━━ ● ━━━━━━━━ ◈ </b>
+     ◈ ━━━━━━━━ ● ━━━━━━━━ ◈ 
 
-  <a href=https://t.me/+hR6DpC_xpPBiM2Zl>❤‍🔥  𝐁ᴏᴛ 𝐔ᴘᴅᴀᴛᴇ 𝐂ʜᴀɴɴᴇʟʜᴀɴɴᴇʟʜᴀɴɴᴇʟ  ❤‍🔥</a>
+  <a href=https://t.me/+hR6DpC_xpPBiM2Zl>❤‍🔥  BᴏT UᴘᴅᴀᴛE  ❤‍🔥</a>
 
-       <b> ✯ ━━━━━ ♡︎ ━━━━━ ✯ </b>
+         ✯ ━━━━━ ♡︎ ━━━━━ ✯ </b>
 
 <b>⭕️ Ꭰɪsᴄʟᴀɪᴍᴇʀ </b> : <code> All The Content in this Channel is Taken From the Internet, We Don't Own Any Content. </code>
 
@@ -34,9 +34,7 @@ class script(object):
 
 👉 Contact me -  @KR_AdmiN_BoT
 
-Share & Support Us❤️</b></i>
-<b>DEVS:</b>
-- <a href=https://t.me/kr_botz>HappyKidBGMZ</a>"""
+Share & Support Us❤️</b></i>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
