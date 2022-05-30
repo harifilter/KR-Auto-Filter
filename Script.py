@@ -29,12 +29,12 @@ class script(object):
              ✯ ━━━━━ ♡︎ ━━━━━ ✯ </b>
 
 <b>⭕️ Ꭰɪsᴄʟᴀɪᴍᴇʀ </b> : <code> All The Content in this Channel is Taken From the Internet, We Don't Own Any Content. </code>
+<b>
+Pᴏᴡᴇʀᴇᴅ Bʏ - @BGM_LinkzZ
 
-</i></b>Powered By - @BGM_LinkzZ 
+Cᴏɴᴛᴀᴄᴛ Mᴇ - @KR_AdimiN_Bot
 
-👉 Contact me -  @KR_AdmiN_BoT
-
-Share & Support Us❤️</b></i>"""
+Sʜᴀʀᴇ & Sᴜᴘᴘᴏʀᴛ Us </b> """
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
