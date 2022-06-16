@@ -9,7 +9,7 @@ class script(object):
 │
 ├⍟ Oᴡɴᴇʀ : <a href='https://telegram.dog/happy_kid_sk'>Hᴀᴘᴘʏ 🧛‍♂️ Kɪᴅ</a>
 │
-├⍟ Cʜᴀɴɴᴇʟ : KR ⚠︎ Bᴏᴛᴢ
+├⍟ Cʜᴀɴɴᴇʟ : <a href='https://t.me/kr_botz'>KR ⚠︎ Bᴏᴛᴢ</a>
 │
 ├⍟ Vᴇʀꜱɪᴏɴ : 2.2.5 [ Bᴇᴛᴀ ]
 │
