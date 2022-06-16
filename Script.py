@@ -112,15 +112,15 @@ This module only works for my admins
 • /broadcast - <code>to broadcast a message to all users</code>"""
     STATUS_TXT = """<b>╭─────❪ 𝗦𝗧𝗔𝗧𝗨𝗦 ❫─────⍟
 │
-├⍟ Tᴏᴛᴀʟ Fɪʟᴇs : <ᴄᴏᴅᴇ>{}</ᴄᴏᴅᴇ>
+├⍟ Tᴏᴛᴀʟ Fɪʟᴇs : <code>{}</code>
 │
-├⍟ Aᴄᴛɪᴠᴇ Uꜱᴇʀꜱ : <ᴄᴏᴅᴇ>{}</ᴄᴏᴅᴇ>
+├⍟ Aᴄᴛɪᴠᴇ Uꜱᴇʀꜱ : <code>{}</code>
 │
 ├⍟ Tᴏᴛᴀʟ Gʀᴏᴜᴘs : <code>{}</code>
 │
-├⍟ Dɪꜱᴋ Sɪᴢᴇ : <ᴄᴏᴅᴇ> 500.42 GB </ᴄᴏᴅᴇ>
+├⍟ Dɪꜱᴋ Sɪᴢᴇ : <code> 500.42 GB </code>
 │
-├⍟ Dɪꜱᴋ Uꜱᴇᴅ : <ᴄᴏᴅᴇ>{}</ᴄᴏᴅᴇ>
+├⍟ Dɪꜱᴋ Uꜱᴇᴅ : <code>{}</code>
 │
 ├⍟ Fʀᴇᴇ Dɪꜱᴋ : <code>{}</code>
 │
