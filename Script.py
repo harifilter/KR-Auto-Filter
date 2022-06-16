@@ -5,7 +5,7 @@ class script(object):
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """ <b>╭────[ 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘 ]────⍟
 │
-├⍟ Mʏ ɴᴀᴍᴇ : { }
+├⍟ Mʏ ɴᴀᴍᴇ : {}
 │
 ├⍟ Oᴡɴᴇʀ : <a href='https://telegram.dog/happy_kid_sk'>Hᴀᴘᴘʏ 🧛‍♂️ Kɪᴅ</a>
 │
