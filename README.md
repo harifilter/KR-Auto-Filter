@@ -1,11 +1,11 @@
 
-[![Stars](https://img.shields.io/github/stars/EvamariaTG/EvaMaria?style=flat-square&color=yellow)](https://github.com/EvamariaTG/EvaMaria/stargazers)
-[![Forks](https://img.shields.io/github/forks/EvamariaTG/EvaMaria?style=flat-square&color=orange)](https://github.com/EvamariaTG/EvaMaria/fork)
-[![Size](https://img.shields.io/github/repo-size/EvamariaTG/EvaMaria?style=flat-square&color=green)](https://github.com/EvamariaTG/EvaMaria/)   
+[![Stars](https://img.shields.io/github/stars/Lastdrogs/KR-Auto-Filter?style=flat-square&color=yellow)](https://github.com/Lastdrogs/KR-Auto-Filter/stargazers)
+[![Forks](https://img.shields.io/github/forks/Lastdrogs/KR-Auto-Filter?style=flat-square&color=orange)](https://github.com/Lastdrogs/KR-Auto-Filter/fork)
+[![Size](https://img.shields.io/github/repo-size/Lastdrogs/KR-Auto-Filter?style=flat-square&color=green)](https://github.com/Lastdrogs/KR-Auto-Filter/)   
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/EvamariaTG/EvaMaria)   
-[![Contributors](https://img.shields.io/github/contributors/EvamariaTG/EvaMaria?style=flat-square&color=green)](https://github.com/EvamariaTG/EvaMaria/graphs/contributors)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/EvamariaTG/EvaMaria/blob/main/LICENSE)
-[![Sparkline](https://stars.medv.io/EvamariaTG/EvaMaria.svg)](https://stars.medv.io/EvamariaTG/EvaMaria)
+[![Contributors](https://img.shields.io/github/contributors/Lastdrogs/KR-Auto-Filter?style=flat-square&color=green)](https://github.com/Lastdrogs/KR-Auto-Filter/graphs/contributors)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/Lastdrogs/KR-Auto-Filter/blob/main/LICENSE)
+[![Sparkline](https://stars.medv.io/Lastdrogs/KR-Auto-Filter.svg)](https://stars.medv.io/Lastdrogs/KR-Auto-Filter)
 
 
 ## Features
@@ -98,11 +98,11 @@ python3 bot.py
 • /link - to create link for one post
 ```
 ## Support
-[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/EvaMariaSupport)
-[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/TeamEvamaria)
+[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/KR_Join)
+[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/KR_Botz)
 
 ## Credits 
-* [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/EvaMariaDevs)
+* [![彡 𝛨𝛢𝛲𝛲𝘠 彡](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/Tamil_KiD)
 
 
 ## Thanks to 
